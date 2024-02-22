@@ -1,2 +1,2 @@
 # Credit-card-checker
-*In work* Credit card validator and visualization
+Credit card validator and visualization
