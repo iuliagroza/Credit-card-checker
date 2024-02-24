@@ -4,4 +4,4 @@
 
 Credit card validator and web visualizer
 
-## © Iulia Groza
+#### © Iulia Groza
