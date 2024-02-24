@@ -1,6 +1,7 @@
-# Credit-card-checker
+# Credit Card Checker
+
+## NOTE: The development of this project is discontinued as this repository has been archived
 
 Credit card validator and web visualizer
 
-## NOTE: The development of this repository is discontinued as it has been archived
-## 
+## © Iulia Groza
